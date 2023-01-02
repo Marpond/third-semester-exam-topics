@@ -1,10 +1,11 @@
 {
-  "accentColor": "#59dcee",
+  "accentColor": "",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Roboto Slab",
   "monospaceFontFamily": "Fira Code Retina",
   "baseFontSize": 14,
   "theme": "system",
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": ""
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FHA/5. Explain the Factory Pattern.md",
+                "file": "KSK/7. Explain IP addresses and DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FHA/5. Explain the Factory Pattern.md",
+                "file": "KSK/7. Explain IP addresses and DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FHA/5. Explain the Factory Pattern.md",
+                "file": "KSK/7. Explain IP addresses and DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FHA/5. Explain the Factory Pattern.md"
+                "file": "KSK/7. Explain IP addresses and DNS.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "dd0a4165f419d505",
   "lastOpenFiles": [
+    "KSK/5. Explain the classes of IP addresses.md",
+    "KSK/6. Explain the Dynamic Host Control Protocol protocol (DHCP).md",
+    "KSK/4. Explain the structure of IP adresses.md",
+    "KSK/3. Explain Wireless LAN 802.11.md",
+    "KSK/2. Explain Ethernet CSMA-CD.md",
     "THA/6. Explain the SOLID principles.md",
-    "THA/3. Explain LINQ and LINQ to objects.md",
-    "THA/1. Explain XML and XML validation with a DTD.md",
-    "THA/8. Explain the process of machine learning with text classification.md",
-    "THA/9. Explain White box testing.md",
-    "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md",
-    "FHA/9. Explain how to do databinding in WPF.md",
-    "FHA/1. Explain what the Delegate is and what it can be used for.md",
-    "KSK/1. Explain the ISO-OSI model.md",
+    "FHA/6. Explain the Dependency Injection Pattern.md",
+    "FHA/4. Explain object initialization, implicit typing, and anonymous types.md",
+    "FHA/3. Explain Inheritance, polymorphism, overriding (usage of virtual, new keywords).md",
     "FHA/2. Explain the concept of the MVVM pattern.md"
   ]
 }
