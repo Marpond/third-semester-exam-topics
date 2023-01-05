@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd0a4165f419d505",
+            "id": "987275f4bec09eb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KSK/7. Explain IP addresses and DNS.md",
+                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 410.5
   },
   "right": {
     "id": "345d35046443e1b5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KSK/7. Explain IP addresses and DNS.md",
+                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KSK/7. Explain IP addresses and DNS.md",
+                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KSK/7. Explain IP addresses and DNS.md"
+                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd0a4165f419d505",
+  "active": "987275f4bec09eb3",
   "lastOpenFiles": [
-    "KSK/5. Explain the classes of IP addresses.md",
-    "KSK/6. Explain the Dynamic Host Control Protocol protocol (DHCP).md",
-    "KSK/4. Explain the structure of IP adresses.md",
-    "KSK/3. Explain Wireless LAN 802.11.md",
-    "KSK/2. Explain Ethernet CSMA-CD.md",
-    "THA/6. Explain the SOLID principles.md",
-    "FHA/6. Explain the Dependency Injection Pattern.md",
-    "FHA/4. Explain object initialization, implicit typing, and anonymous types.md",
-    "FHA/3. Explain Inheritance, polymorphism, overriding (usage of virtual, new keywords).md",
-    "FHA/2. Explain the concept of the MVVM pattern.md"
+    "THA/8. Explain the process of machine learning with text classification.md",
+    "THA/1. Explain XML and XML validation with a DTD.md",
+    "KSK/12. Explain physical and logical topologies.md",
+    "KSK/11. Explain for one the following protocol NNPT, SMTP, POP3 or IMAP.md",
+    "KSK/10. IT Security. Give an introduction to Security objectives. Explain Private key- Public Key or Kerberos protocol..md",
+    "KSK/9. Explain some of the problems, that are in synchronization in a  distributed system. Explain global order and global time.md",
+    "KSK/8. Explain shortly the private IP and Network Address Translation (NAT).md",
+    "KSK/7. Explain IP addresses and DNS.md",
+    "KSK/6. Explain the Dynamic Host Control Protocol (DHCP).md",
+    "KSK/5. Explain the classes of IP addresses.md"
   ]
 }
