@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md",
+                "file": "SYSDEV/4. Explain Atern (DSDM).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md",
+                "file": "SYSDEV/4. Explain Atern (DSDM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md",
+                "file": "SYSDEV/4. Explain Atern (DSDM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "THA/10. Explain the web-api construction using Rest, MVC-controllers, routes and HTTP-methods.md"
+                "file": "SYSDEV/4. Explain Atern (DSDM).md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "987275f4bec09eb3",
   "lastOpenFiles": [
-    "THA/8. Explain the process of machine learning with text classification.md",
-    "THA/1. Explain XML and XML validation with a DTD.md",
-    "KSK/12. Explain physical and logical topologies.md",
-    "KSK/11. Explain for one the following protocol NNPT, SMTP, POP3 or IMAP.md",
-    "KSK/10. IT Security. Give an introduction to Security objectives. Explain Private key- Public Key or Kerberos protocol..md",
-    "KSK/9. Explain some of the problems, that are in synchronization in a  distributed system. Explain global order and global time.md",
+    "SYSDEV/7. Explain XP.md",
+    "SYSDEV/6. Usability.md",
+    "SYSDEV/2. Explain SCRUM.md",
+    "SYSDEV/8. Quality.md",
     "KSK/8. Explain shortly the private IP and Network Address Translation (NAT).md",
-    "KSK/7. Explain IP addresses and DNS.md",
-    "KSK/6. Explain the Dynamic Host Control Protocol (DHCP).md",
-    "KSK/5. Explain the classes of IP addresses.md"
+    "KSK/9. Explain some of the problems, that are in synchronization in a  distributed system. Explain global order and global time.md",
+    "SYSDEV/9. Explain “The agile testing quadrant“.md",
+    "SYSDEV/12. Use cases.md",
+    "SYSDEV/5. Agile manifesto.md",
+    "SYSDEV/11. Explain the Pomodoro method.md"
   ]
 }
