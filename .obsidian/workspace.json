@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SYSDEV/4. Explain Atern (DSDM).md",
+                "file": "FHA/5. Explain the Factory Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYSDEV/4. Explain Atern (DSDM).md",
+                "file": "FHA/5. Explain the Factory Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SYSDEV/4. Explain Atern (DSDM).md",
+                "file": "FHA/5. Explain the Factory Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SYSDEV/4. Explain Atern (DSDM).md"
+                "file": "FHA/5. Explain the Factory Pattern.md"
               }
             }
           }
@@ -150,13 +150,13 @@
   "lastOpenFiles": [
     "SYSDEV/7. Explain XP.md",
     "SYSDEV/6. Usability.md",
+    "SYSDEV/4. Explain Atern (DSDM).md",
+    "KSK/3. Explain Wireless LAN 802.11.md",
+    "KSK/2. Explain Ethernet CSMA-CD.md",
+    "SYSDEV/3. Prototypes.md",
     "SYSDEV/2. Explain SCRUM.md",
-    "SYSDEV/8. Quality.md",
-    "KSK/8. Explain shortly the private IP and Network Address Translation (NAT).md",
-    "KSK/9. Explain some of the problems, that are in synchronization in a  distributed system. Explain global order and global time.md",
-    "SYSDEV/9. Explain “The agile testing quadrant“.md",
+    "SYSDEV/1. Explain some of the parameters that could be the basis for choosing a development method.md",
     "SYSDEV/12. Use cases.md",
-    "SYSDEV/5. Agile manifesto.md",
     "SYSDEV/11. Explain the Pomodoro method.md"
   ]
 }
